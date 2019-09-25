@@ -458,9 +458,14 @@ const Home = () => {
           >
             Special:
           </div>
-          <div>
+          <div sx={{ mb: 0 }}>
             {KeyTip('w')} save png&nbsp; {KeyTip('x')} clear&nbsp; {KeyTip('?')}{' '}
             toggle help
+          </div>
+          <div sx={{}}>
+            <a href="https://github.com/constraint-systems/hex" target="_blank">
+              View source↗
+            </a>
           </div>
         </div>
       </div>
