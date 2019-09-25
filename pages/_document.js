@@ -16,17 +16,20 @@ class MyDocument extends Document {
             content="width=device-width,initial-scale=1,shrink-to-fit=no"
           />
           <meta name="theme-color" content="#000000" />
-          <meta name="description" content="A keyboard-based drawing tool." />
-          <meta property="og:title" content="Etch" />
+          <meta
+            name="description"
+            content="A keyboard-driven, grid-based drawing tool."
+          />
+          <meta property="og:title" content="Hex" />
           <meta
             property="og:description"
-            content="A keyboard-based drawing tool."
+            content="A keyboard-driven, grid-based drawing tool."
           />
           <meta
             property="og:image"
-            content="https://etch.constraint.systems/static/share.png"
+            content="https://hex.constraint.systems/static/share.png"
           />
-          <meta property="og:url" content="https://etch.constraint.systems" />
+          <meta property="og:url" content="https://hex.constraint.systems" />
           <meta name="twitter:card" content="summary_large_image" />
         </Head>
         <body>
