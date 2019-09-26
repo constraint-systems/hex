@@ -6,4 +6,4 @@ A keyboard-driven, grid-based drawing tool.
 
 https://hex.constraint.systems/
 
-Inspired by https://github.com/hundredrabbits/noodle.
+Inspired by [Hundred Rabbits' Noodle](https://github.com/hundredrabbits/noodle).
