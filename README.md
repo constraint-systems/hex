@@ -2,7 +2,7 @@
 
 A keyboard-driven, grid-based drawing tool.
 
-<img src='https://raw.githubusercontent.com/constraintsystems/hex/master/static/share.png' width="600"/>
+<img src='https://raw.githubusercontent.com/constraintsystems/hex/master/static/share.gif' width="600"/>
 
 https://hex.constraint.systems/
 
